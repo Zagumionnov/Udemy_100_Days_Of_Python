@@ -28,5 +28,6 @@ def start_coffee_machine():
             continue
         coffee_maker.make_coffee(drink)
 
+
 if __name__ == '__main__':
     start_coffee_machine()

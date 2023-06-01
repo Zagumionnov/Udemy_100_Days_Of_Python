@@ -10,8 +10,8 @@ MY_LAT_MAX = MY_LAT + 5.0
 MY_LONG = -0.127758  # Your longitude
 MY_LONG_MIN = MY_LONG - 5.0
 MY_LONG_MAX = MY_LONG + 5.0
-MY_EMAIL = "bavevna@gmail.com"
-PASSWORD = "qtsojmaumwodjeeu"
+MY_EMAIL = ""
+PASSWORD = ""
 
 
 def is_iss_overhead():

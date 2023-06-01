@@ -3,7 +3,7 @@ from datetime import datetime
 import requests
 
 USERNAME = "zagum"
-TOKEN = "asdfwr3451!@#d"
+TOKEN = ""
 CODING_GRAPH_ID = "graph1"
 
 pixela_endpoint = "https://pixe.la/v1/users"
